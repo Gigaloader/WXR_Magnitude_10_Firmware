@@ -1,4 +1,4 @@
-Marlin 2.1.2.1 "Magnitude 10" firmware - is a much improved firmware over the stock Quake firmware. It will drastically improve the print quality and speed. No more VFA's.
+Marlin 2.1.2.1 "Magnitude 10" firmware - is a much improved firmware over the stock Quake firmware. It will drastically improve the print quality and speed of your WXR. No more VFA's.
 This upgrade includes Stepper Smoothing, Linear Advance, Input Shaper and more. For best performance you will need the new fan shroud with better cooling. It also requires
 a silicon boot for the copperhead hotend to prevent over cooling. You can get one at the slice engineering website.
 
