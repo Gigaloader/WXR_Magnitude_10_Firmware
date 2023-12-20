@@ -10,8 +10,7 @@ How to flash the firmware:
 4. Eject micro-sd card from your computer.
 5. Insert the micro-sd card back into the mainboard on the printer.
 6. Turn on printer. The firmware will flash automatically. (If you get an eeprom error at first start up, clean the eeprom with a M502 command in the terminal)
-7. Run first layer calibration if needed. Print profiles for Prusa Slicer will follow.
-
+7. Run first layer calibration if needed.
 9. Done!
 
 FYI: Linear-Advance value for PLA is "K 0.0715" and needs to be set via start G-code in your Slicer. Every fillament type has a slightly different value.   
