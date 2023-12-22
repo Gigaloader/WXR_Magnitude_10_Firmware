@@ -14,7 +14,7 @@ How to flash the firmware:
 7. Run first layer calibration if needed.
 9. Done!
 
-FYI: Linear-Advance value for PLA is "K 0.0715" and needs to be set via start G-code in your Slicer. Every fillament type has a slightly different value.   
+FYI: Linear-Advance value for PLA is "K 0.072" and needs to be set via start G-code in your Slicer. Every fillament type has a slightly different value.   
 Print profiles for Prusa Slicer will follow. 
 
  
