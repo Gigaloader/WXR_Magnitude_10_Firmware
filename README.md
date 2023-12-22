@@ -15,6 +15,8 @@ How to flash the firmware:
 9. Done!
 
 FYI: Linear-Advance value for PLA is "K 0.072" and needs to be set via start G-code in your Slicer. Every fillament type has a slightly different value.   
-Print profiles for Prusa Slicer will follow. 
+The print profiles for Prusa Slicer has them already preset for PLA. 
+Check back for updated profiles for other filament types like PETG, ASA etc. Or you just create your own by tweaking the K vale for your filaments.
+I will upload Super Slicer and Cura Profiles at some point.
 
  
