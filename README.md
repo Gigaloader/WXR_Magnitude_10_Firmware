@@ -3,6 +3,8 @@ Marlin 2.1.2.1 "Magnitude 10" (unofficial) firmware - is a much improved firmwar
 This upgrade includes Stepper Smoothing, Linear Advance, Input Shaper and more. For best performance you will need the new fan shroud with better cooling. It also requires
 a silicon boot for the copperhead hotend to prevent over cooling. You can get one at the slice engineering website.
 
+Latest changes: Full octoprint support, filament runout support, long filename support and other improvements.
+
 How to flash the firmware:
 
 1. Turn off printer. Remove micro-sd card from the mainboard on the bottom of the printer. (Not the SD card at the LCD screen slot)
