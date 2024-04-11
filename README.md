@@ -3,7 +3,7 @@ Marlin 2.1.2.1 "Magnitude 10" (unofficial) firmware - is a much improved firmwar
 This upgrade includes Stepper Smoothing, Linear Advance, Input Shaper and more. For best performance you will need the new fan shroud with better cooling. It also requires
 a silicon boot for the copperhead hotend to prevent over cooling. You can get one at the slice engineering website.
 
-Latest changes: Full octoprint support, filament runout support, long filename support and other improvements.
+Latest changes: Updated Input shaper values, full octoprint support, filament runout support, long filename support and other improvements.
 
 How to flash the firmware:
 
@@ -16,7 +16,14 @@ How to flash the firmware:
 7. Run first layer calibration if needed.
 9. Done!
 
-FYI: Linear-Advance value for PLA is around "K 0.045" to "K 0.07" and needs to be set via start G-code in your Slicer. Depending on the filament used. Every fillament type has a slightly different value.   
+Linear-Advance value for PLA is around "K 0.045" to "K 0.07" and needs to be set via start G-code in your Slicer. Depending on the filament and nozzle used. Also Every fillament type has a slightly different value. 
+
+Generic PLA (average) K values as per my testing:
+'E3D' 0.4mm nozzle = K 0.04
+'E3D' 0.4mm steel nozzle = K 0.035
+'Ruby' 0.4mm nozzle = K 0.068
+'CHT' 0.4mm nozzle = K 0.55
+
 The print profiles for Prusa Slicer has them already preset for PLA. 
 Check back for updated profiles for other filament types like PETG, ASA etc. Or you just create your own by tweaking the K value for your filaments.
 The "Magnitude (Seismic Layer Shift)" printer setting is experimental. 
