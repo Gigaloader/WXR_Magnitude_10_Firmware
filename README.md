@@ -19,9 +19,9 @@ How to flash the firmware:
 Linear-Advance value for PLA is around "K 0.045" to "K 0.07" and needs to be set via start G-code in your Slicer. Depending on the filament and nozzle used. Also Every fillament type has a slightly different value. 
 
 Generic PLA (average) K values as per my testing:
-'E3D' 0.4mm nozzle = K 0.04
-'E3D' 0.4mm steel nozzle = K 0.035
-'Ruby' 0.4mm nozzle = K 0.068
+'E3D' 0.4mm nozzle = K 0.04;
+'E3D' 0.4mm steel nozzle = K 0.035;
+'Ruby' 0.4mm nozzle = K 0.068;
 'CHT' 0.4mm nozzle = K 0.55
 
 The print profiles for Prusa Slicer has them already preset for PLA. 
