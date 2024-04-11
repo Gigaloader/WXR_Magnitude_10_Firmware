@@ -3,6 +3,6 @@ K-factor calibration for 0.4 Nozzle
 You can calibrate your own K-factor values by printing these gcodes.
 
 Good K-factor values for PLA usually range between 0.04 and 0.07. For PETG 0.06 - 0.08.
-This can variate due to material properties of filament manufacturers.
+This can variate due to material properties of filament manufacturers and pressure behavior of the nozzle used.
 
  
