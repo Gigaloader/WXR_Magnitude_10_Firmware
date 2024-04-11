@@ -22,7 +22,7 @@ Generic PLA (average) K values as per my testing:
 'E3D' 0.4mm nozzle = K 0.04;
 'E3D' 0.4mm steel nozzle = K 0.035;
 'Ruby' 0.4mm nozzle = K 0.068;
-'CHT' 0.4mm nozzle = K 0.55
+'CHT' 0.4mm nozzle = K 0.055
 
 The print profiles for Prusa Slicer has them already preset for PLA. 
 Check back for updated profiles for other filament types like PETG, ASA etc. Or you just create your own by tweaking the K value for your filaments.
