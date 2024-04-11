@@ -25,9 +25,9 @@ Generic PLA (average) K values as per my testing:
 'Ruby' 0.4mm nozzle = K 0.068;
 'CHT' 0.4mm nozzle = K 0.055
 
-The print profiles for Prusa Slicer has them already preset for PLA. 
-Check back for updated profiles for other filament types like PETG, ASA etc. Or you just create your own by tweaking the K value for your filaments.
+The print profiles for Prusa Slicer has them already preset for PLA and PETG and E3D 0.4mm nozzle. 
+Or you can put in your own values at the G-Code section under filament settings.
 The "Magnitude (Seismic Layer Shift)" printer setting is experimental. 
-I will upload Super Slicer and Cura Profiles at some point.
+I may upload Super Slicer and Cura Profiles at some point.
 
  
